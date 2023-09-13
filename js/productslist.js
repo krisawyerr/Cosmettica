@@ -1,0 +1,71 @@
+export let products = [{
+    id: "00001",
+    image: '/images/Screenshot__9_-removebg-preview.png',
+    name: 'Ivoryclaw',
+    priceCents: 2000000
+}, {
+    id: "00002",
+    image: '/images/Screenshot__8_-removebg-preview.png',
+    name: 'Pearl Yeti',
+    priceCents: 2000000
+}, {
+    id: "00003",
+    image: '/images/Screenshot__10_-removebg-preview.png',
+    name: 'Hoarfrost',
+    priceCents: 2000000
+}, {
+    id: "00004",
+    image: '/images/Screenshot__11_-removebg-preview.png',
+    name: 'Kraken',
+    priceCents: 900000
+}, {
+    id: "00005",
+    image: '/images/Screenshot__12_-removebg-preview.png',
+    name: 'Mariner',
+    priceCents: 900000
+}, {
+    id: "00006",
+    image: '/images/Screenshot__13_-removebg-preview.png',
+    name: 'Azure',
+    priceCents: 900000
+}, {
+    id: "00007",
+    image: '/images/Screenshot__16_-removebg-preview.png',
+    name: 'Flame',
+    priceCents: 1300000
+}, {
+    id: "00008",
+    image: '/images/Screenshot__14_-removebg-preview.png',
+    name: 'Magma',
+    priceCents: 1300000
+}, {
+    id: "00009",
+    image: '/images/Screenshot__15_-removebg-preview.png',
+    name: 'Inferno',
+    priceCents: 1300000
+}, {
+    id: "00010",
+    image: '/images/Screenshot__19_-removebg-preview (1).png',
+    name: 'Chrome',
+    priceCents: 4500000
+}, {
+    id: "00011",
+    image: '/images/Screenshot__17_-removebg-preview.png',
+    name: 'Guardian',
+    priceCents: 4500000
+}, {
+    id: "00012",
+    image: '/images/Screenshot__18_-removebg-preview.png',
+    name: 'Golem',
+    priceCents: 4500000
+}, {
+    id: "00013",
+    image: '/images/Screenshot__20_-removebg-preview.png',
+    name: 'Crawler',
+    priceCents: 3000000
+}, {
+    id: "00014",
+    image: '/images/Screenshot__21_-removebg-preview.png',
+    name: 'Royal',
+    priceCents: 3000000
+}];

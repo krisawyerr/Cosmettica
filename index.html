@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Amazon Project</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/products.css">
+  </head>
+  <body>
+    <div class="header">
+      <div class="headerLeft">
+        <p class="logo">Cosmettica</p>
+      </div>
+      <div class="headerRight">
+        <button class="cartButton">Orders</button>
+        <button class="cartButton js-cart-quantity" onclick="location.href='/html/checkout.html'">Cart : 0</button>
+      </div>
+    </div>
+
+    <div class="main">
+      <div class="products-grid js-products-grid"></div>
+    </div>
+
+    <script type="module" src="/js/products.js"></script>
+  </body>
+</html>
