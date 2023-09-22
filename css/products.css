@@ -65,7 +65,7 @@
   grid-template-columns: repeat(8, 1fr);
 }
 .product-container {
-  padding-top: 40px;
+  padding-top: 30px;
   padding-bottom: 25px;
   padding-left: 40px;
   padding-right: 25px;
@@ -91,10 +91,11 @@
   font-family: 'Sarina', cursive;
   font-size: larger;
   color: #600000;
+  margin-bottom: -5px;
 }
 .product-price {
   font-weight: 700;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
 }
 .product-quantity-container {
   margin-bottom: 17px;
